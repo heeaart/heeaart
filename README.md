@@ -1,6 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My name is Alek, I'm 17 years old and I'm a technical college of Programing, and I think that's it :).</h3>
 <p align="left">
 </p>
 
