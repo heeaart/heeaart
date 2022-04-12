@@ -15,7 +15,7 @@
 <h3>📫 How to reach me:</h3>
 
  Discord: heeaart#2137 <br>
- [heeaart.eu](heeaart.eu)
+ Site: [heeaart.eu](heeaart.eu)
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21nqmzglcy7tgopy76wdoyiki&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
